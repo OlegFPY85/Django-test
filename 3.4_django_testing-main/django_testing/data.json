@@ -1,0 +1,11 @@
+{
+  "name": "subject",
+  "students": [
+    {"name": "NAME1",
+    "birth_date": "2000-01-20"},
+    {"name": "NAME2",
+    "birth_date": "2001-02-10"},
+    {"name": "NAME3",
+    "birth_date": "2002-04-05"}
+  ]
+}
